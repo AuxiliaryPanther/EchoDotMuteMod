@@ -1,7 +1,6 @@
-/*
-  This program was created by Andrew Peters on 1/3/21. Visit 
-  https://github.com/AuxiliaryPanther/EchoDotMuteMod for the most up to date code
-  and information. glhf */
+/* This program was created by Andrew Peters on 1/3/21. Visit 
+   https://github.com/AuxiliaryPanther/EchoDotMuteMod for the most up to date code
+   and information. glhf */
 
 #define Mute A10 // Dot TM10 (DOUT, grounding this hardware mutes the mic data stream)
 #define Minus A9 // Dot TM33 (Grounded to trigger Volume Down button press)
