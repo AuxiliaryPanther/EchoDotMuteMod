@@ -4,7 +4,7 @@
 
 This program allows a Seeeduino Xiao (tiny Arduino-style board with a SAM D21 core) to add a hardware mic mute feature to the Amazon Echo Dot 2nd gen smart speaker. It is not controlled by the Dot's programming and causes the Dot to boot up in the mic muted state. This is separate and independent from the built-in software mic mute button. This is in response to security vulnerabilities popularized by Dolphin Attack research, which has expanded to speech-modulated lasers, too.
 
-This program was created by Andrew Peters on 1/3/21 in the pursuit of learning how to control that which controls us. Freely use and build on this. Please let me know of any improvements or ideas you may have on the github discussion here or at andrewpeterst@gmail.com. I recently finished a video detailed this project as well: https://youtu.be/OSyf_FsDwfk
+This program was created by Aux Panther on 1/3/21 in the pursuit of learning how to control that which controls us. Freely use and build on this. Please let me know of any improvements or ideas you may have on the github discussion here or at auxiliarypanther@gmail.com.
     
 * SAFETY DISCLAIMER
   
