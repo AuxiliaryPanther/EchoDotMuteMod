@@ -1,4 +1,4 @@
-/* This program was created by Andrew Peters on 1/3/21. Visit 
+/* This program was created by Aux Panther on 1/3/21. Visit 
    https://github.com/AuxiliaryPanther/EchoDotMuteMod for the most up to date code
    and information. glhf */
 
